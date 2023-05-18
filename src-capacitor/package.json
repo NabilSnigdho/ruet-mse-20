@@ -1,0 +1,15 @@
+{
+  "name": "ruet-mse-20",
+  "version": "0.0.1",
+  "description": "An useless app",
+  "author": "Mahmud Nabil <nabilsnigdho@gmail.com>",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "^5.0.0",
+    "@capacitor/app": "^5.0.2",
+    "@capacitor/app-launcher": "^5.0.2",
+    "@capacitor/cli": "^5.0.3",
+    "@capacitor/core": "5.0.3",
+    "@capacitor/splash-screen": "^5.0.2"
+  }
+}

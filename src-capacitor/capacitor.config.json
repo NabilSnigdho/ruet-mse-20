@@ -1,0 +1,7 @@
+{
+  "appId": "org.capacitor.ruet.mse",
+  "appName": "RUET MSE-20 Family",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}

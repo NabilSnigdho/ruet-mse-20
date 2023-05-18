@@ -1,0 +1,35 @@
+{
+  "name": "ruet-mse-20",
+  "version": "0.0.1",
+  "description": "An useless app",
+  "productName": "RUET MSE-20 Family",
+  "author": "Mahmud Nabil <nabilsnigdho@gmail.com>",
+  "private": true,
+  "scripts": {
+    "lint": "eslint --ext .js,.ts,.vue ./",
+    "format": "prettier --write \"**/*.{js,ts,vue,scss,html,md,json}\" --ignore-path .gitignore",
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "@capacitor/app-launcher": "^5.0.2",
+    "@quasar/extras": "^1.16.3",
+    "decamelize": "^6.0.0",
+    "minisearch": "^5.0.0",
+    "pinia": "^2.0.22",
+    "quasar": "^2.12.0",
+    "vue": "^3.2.40",
+    "vue-router": "^4.1.5"
+  },
+  "devDependencies": {
+    "@quasar/app-vite": "^1.4.3",
+    "@types/node": "^18.7.23",
+    "@typescript-eslint/eslint-plugin": "^5.38.1",
+    "@typescript-eslint/parser": "^5.38.1",
+    "autoprefixer": "^10.4.12",
+    "eslint": "^8.24.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-vue": "^9.5.1",
+    "prettier": "^2.7.1",
+    "typescript": "^4.8.4"
+  }
+}
